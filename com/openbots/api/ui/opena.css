@@ -1,0 +1,3 @@
+.small-titled-pane > .title {
+    -fx-font-size: 1.25em;
+}
